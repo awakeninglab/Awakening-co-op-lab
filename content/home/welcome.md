@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title, font :M
+title
   Research, Education, Social Design for Convivial, Regenerative, and Healthy Societies  
   for Convivial, Regenerative, and Healthy Societies  
 hero_media: welcome.jpg
