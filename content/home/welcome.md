@@ -9,7 +9,8 @@ weight: 10  # Order that this section will appear.
 title
   Research, Education, Social Design for Convivial, Regenerative, and Healthy Societies  
   for Convivial, Regenerative, and Healthy Societies  
-hero_media: welcome.jpg
+font:M
+hero_media: homepage.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -21,3 +22,4 @@ design:
 <br>
 
 **Awakening Cooperative Lab** (or Awakening Co-op Lab, Awakening Lab) is a grassroots think-and-do-tank founded in Taiwan, which takes a critical and systems-conscious approach to research, education, and social design, with the aim to sow seeds for convivial, regenerative, and healthy societies. 
+font:s
